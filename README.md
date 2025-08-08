@@ -8,7 +8,7 @@
 
 ###
 
-<h5 align="left">Welcome to my profile!<br>I’m an undergraduate CSE student, tech enthusiast, and passionate app creator. <br>Always exploring the latest technologies, I love building interactive web apps that bring ideas to life.<br>Thanks for stopping by. Let’s connect and create something amazing!</h5>
+<h4 align="left">Welcome to my profile!<br>I’m an undergraduate CSE student, tech enthusiast, and passionate app creator. <br>Always exploring the latest technologies, I love building interactive web apps that bring ideas to life.<br>Thanks for stopping by. Let’s connect and create something amazing!</h4>
 
 ###
 
@@ -60,6 +60,24 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
 </div>
+
+###
+
+<h3 align="left">🚀 Current Activity</h3>
+
+<p align="left">
+  🌱 Currently learning & exploring:
+</p>
+
+<ul align="left">
+  <li>⚡ TypeScript – for writing safer, scalable, and maintainable code</li>
+  <li>⚡ Next.js – for building fast, SEO-friendly, and production-ready web apps</li>
+  <li>⚡ Redux – for managing state efficiently in complex applications</li>
+</ul>
+
+<p align="left">
+  Always excited to apply these technologies to real-world projects and sharpen my skills!
+</p>
 
 ###
 
