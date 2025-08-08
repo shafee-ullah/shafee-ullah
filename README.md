@@ -5,7 +5,8 @@
 
 ###
 
-<h2 align="left">👋 Hello, I'm Shafee Ullah — A Web Developer who turns Ideas into Interactive Web Apps</h2>
+<h2 align="left">👋 Hello, I'm A K M Shafee Ullah — A Web Developer who turns Ideas into Interactive Web Apps</h2>
+
 
 ###
 
@@ -32,6 +33,8 @@
 </div>
 
 ###
+
+<h2 align="left">👨‍💻 Skills</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
